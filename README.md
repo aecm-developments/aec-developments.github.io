@@ -3,6 +3,7 @@
 - The `Home` page can now be changed by changing `index.html`.
 
 Modify/add `.md` files in `_tabs` however you want to...
+  - The main thing is to remove `layout: ____` from the front matter to get a "normal" page
 
 Example: [pbeama.github.io](https://pbeama.github.io/)
 
