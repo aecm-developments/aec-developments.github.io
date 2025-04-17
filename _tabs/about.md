@@ -1,6 +1,6 @@
 ---
-title: About
-icon: fas fa-info-circle
+title: Résumé
+icon: fa-solid fa-flask
 order: 4
 ---
 
