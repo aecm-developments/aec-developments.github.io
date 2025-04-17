@@ -3,6 +3,7 @@ title: Résumé
 icon: fa-solid fa-flask
 order: 2
 ---
+
 <style>
   td{
     border:none;
